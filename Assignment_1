@@ -1,0 +1,18 @@
+1. Explain One-Hot Encoding
+Ans. One hot encoding simply means converting a string or words or a bag of words into a list of ones and zeroes,but with a proper meaning and a logic to be used for predictions.
+2. Explain Bag of Words
+Ans. Bag of Words is a method of feature extraction with text data.
+3. Explain Bag of N-Grams
+Ans. An N-Gram means a sequence of N-Words,a bag of n-grams measure the number of times that each n-gram appears in the document.
+4. Explain TF-IDF
+Ans. TF-IDF stands for Term Frequency-Inverse Document Frequency,TF and IDF are two separately calculated entities combined by multiplying, they are used to find out the most important words in a document.
+5. What is OOV problem?
+Ans. OOV means out of vocabulary,these are the terms that are not part of the normal lexicon found in a natural language processing environment.
+6. What are word embeddings?
+Ans. When words are represented as vectors with semantic meaning,this technique is called word embedding.
+7. Explain Continuous bag of words (CBOW)
+Ans. Both CBOW and skipgram is used to get the underlying word representation in a sentence.CBOW works by predicting the words in the middle of the sentence.
+8. Explain SkipGram
+Ans. Both CBOW and skipgram is used to get the underlying word representation in a sentence.Skipgram gives the context in the sentence.
+9. Explain Glove Embeddings.
+Ans. Glove Embeddings essentially converts words to vectors,while skipgram used a feed forward neural network,GloVe used matrix factorisation method to covert words to vectors or do embedding.
